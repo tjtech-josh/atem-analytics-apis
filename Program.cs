@@ -69,7 +69,7 @@ if (app.Environment.IsDevelopment())
 app.UseHttpsRedirection();
 app.UseCors(option => option.AllowAnyHeader().AllowAnyMethod()
     .WithOrigins(
-        "atem-analytics.tj-tech.us",
+        "https://atem-analytics.tj-tech.us",
         "http://localhost:4200"
     ));
 
