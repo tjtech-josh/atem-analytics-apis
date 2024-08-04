@@ -1,0 +1,6 @@
+@TJTech.APIs.ChatGTP_HostAddress = http://localhost:5188
+
+GET {{TJTech.APIs.ChatGTP_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

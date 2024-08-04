@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TJTech.APIs.ChatGTP", "TJTech.APIs.ChatGTP.csproj", "{63FED4C0-9378-486C-9D3D-2FA9905822DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63FED4C0-9378-486C-9D3D-2FA9905822DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63FED4C0-9378-486C-9D3D-2FA9905822DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63FED4C0-9378-486C-9D3D-2FA9905822DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63FED4C0-9378-486C-9D3D-2FA9905822DD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
